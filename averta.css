@@ -1,6 +1,6 @@
 /* Regular → 400 */
 @font-face {
-  font-family: "Averta_new";
+  font-family: "Averta_New";
   src: url("https://raw.githubusercontent.com/PA-Smarthome/home-assistant-averta/main/Averta-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
@@ -9,7 +9,7 @@
 
 /* Semibold → 500 */
 @font-face {
-  font-family: "Averta_new";
+  font-family: "Averta_New";
   src: url("https://raw.githubusercontent.com/PA-Smarthome/home-assistant-averta/main/Averta-Semibold.woff2") format("woff2");
   font-weight: 500;
   font-style: normal;
@@ -18,7 +18,7 @@
 
 /* Bold → 700 */
 @font-face {
-  font-family: "Averta_new";
+  font-family: "Averta_New";
   src: url("https://raw.githubusercontent.com/PA-Smarthome/home-assistant-averta/main/Averta-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
